@@ -20,12 +20,6 @@ Project ini dibuat dengan:
 * HTML
 * CSS
 * Javascript
-	
-## Setup
-
-1. Clone project ini `https://github.com/ridwanz02/kwadrat`
-2. Masuk kedalam folder `cd kwadrat`
-3. Buka di browser
 
 ## License
 
