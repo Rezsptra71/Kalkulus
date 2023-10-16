@@ -13,7 +13,7 @@ Aplikasi berbasis web yang memiliki fitur:
 * Pertidaksamaan Linier
 * Pertidaksamaan kuadrat
 
-Live demo: https://kwadrat.netlify.app/
+ https://kalkuluz.netlify.app
 	
 ## Technologies
 Project ini dibuat dengan:
