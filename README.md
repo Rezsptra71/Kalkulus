@@ -1,4 +1,4 @@
-# Kwadrat
+# Kalkulus
 
 ## General info
 Aplikasi berbasis web yang memiliki fitur:
