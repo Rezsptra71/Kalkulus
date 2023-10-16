@@ -1,10 +1,5 @@
 # Kwadrat
 
-## Table of contents
-* [General info](#general-info)
-* [Technologies](#technologies)
-* [Setup](#setup)
-
 ## General info
 Aplikasi berbasis web yang memiliki fitur:
 * Menghitung Persamaan Kuadrat dengan Metode
@@ -12,8 +7,6 @@ Aplikasi berbasis web yang memiliki fitur:
 * Menyusun Persamaan kuadrat
 * Pertidaksamaan Linier
 * Pertidaksamaan kuadrat
-
- https://kalkuluz.netlify.app
 	
 ## Technologies
 Project ini dibuat dengan:
@@ -21,7 +14,5 @@ Project ini dibuat dengan:
 * CSS
 * Javascript
 
-## License
 
-Project ini open souce dibawah lisensi [MIT license](https://opensource.org/licenses/MIT).
 
